@@ -60,7 +60,7 @@
             }
         ]
     },
-    //NOTE - Use this scheme only for WSL, You will not find any difference in other terminals like cmd and powershell
+
     "schemes": [{
         "name": "Cybrpnk Nightcity",
         "black": "#1f1d27",

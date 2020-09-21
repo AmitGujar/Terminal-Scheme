@@ -10,4 +10,6 @@ Linux Distro in wsl <br>
 
 ## Screenshot
 
-<img src = /screenshot/nightcity.jpg>
+<img src = /screenshot/nightcity.jpg><br>
+
+NOTE - USE THIS SCEHME ONLY FOR WSL WITH ZSH SHELL, USING THIS SCHEME WITH CMD/POWERSHELL IS NOT GONNA MAKE MUCH DIFFERENCE.
