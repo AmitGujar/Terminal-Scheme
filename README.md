@@ -20,7 +20,7 @@ Open settings.json and copy color scheme code in it and set scheme name.<br>
 
 NOTE - Use this scheme only for Wsl with Zsh shell, using this scheme with Cmd/Powershell is not gonna make much difference.
 
-### For VScode Terminal.
+### For VS Code Terminal.
 
 Open settings.json of terminal from settings and paste color scheme code.<br>
 
