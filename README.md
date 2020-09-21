@@ -9,7 +9,7 @@ Linux Distro in wsl <br>
 
 ## Screenshots
 
-<img src = /screenshot/Wnightcity.jpg><br>
+<img src = /screenshots/Wnightcity.jpg><br>
 <img src = /screenshots/Vnightcity.jpg><br>
 
 ## How to Apply
@@ -18,10 +18,10 @@ Linux Distro in wsl <br>
 
 Open settings.json and copy color scheme code in it and set scheme name.<br>
 
-### NOTE - USE THIS SCEHME ONLY FOR WSL WITH ZSH SHELL, USING THIS SCHEME WITH CMD/POWERSHELL IS NOT GONNA MAKE MUCH DIFFERENCE.
+NOTE - Use this scheme only for Wsl with Zsh shell, using this scheme with Cmd/Powershell is not gonna make much difference.
 
 ### For VScode Terminal.
 
 Open settings.json of terminal from settings and paste color scheme code.<br>
 
-### NOTE - THIS TERMINAL THEME IS INDEPENDENT FROM YOUR EDITOR COLOR SCHEME
+NOTE - This terminal theme is independent of your editor color scheme.
