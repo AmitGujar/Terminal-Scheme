@@ -1,4 +1,4 @@
-# Cyberpunk Nightcity
+# Nightcity
 
 ## Requirements
 
