@@ -6,6 +6,9 @@
     "$schema": "https://aka.ms/terminal-profiles-schema",
 
     "defaultProfile": "{1a5bd413-38b7-51cf-b940-2309a097f518}",
+      "initialCols": 85,
+      "initialRows": 21,
+      "initialPosition": "350,150",
 
     // You can add more global application settings here.
 
