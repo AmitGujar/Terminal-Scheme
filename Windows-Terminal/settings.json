@@ -105,6 +105,27 @@
         "brightWhite": "#ffffff",
         "background": "#121524",
         "foreground": "#d6c9ff"
+   },
+   {
+    "name": "Nerd Matrix",
+    "black": "#101116",
+    "red": "#ff5680",
+    "green": "#ff19cd",
+    "yellow": "#fffc58",
+    "blue": "#00b0ff",
+    "purple": "#d57bff",
+    "cyan": "#76c1ff",
+    "white": "#c7c7c7",
+    "brightBlack": "#cd33fc",
+    "brightRed": "#ff6e67",
+    "brightGreen": "#00ff88",
+    "brightYellow": "#ffe600",
+    "brightBlue": "#ff8800",
+    "brightPurple": "#ff00aa",
+    "brightCyan": "#00aeff",
+    "brightWhite": "#ffffff",
+    "background": "#0e0d0d",
+    "foreground": "#d6c9ff"
    }],
 
     // To unbind a key combination from your defaults.json, set the command to "unbound".
